@@ -1,7 +1,7 @@
 # developer-resources  
-Great resources for Web-developers creating projects for their portfolios!
+Best FREE resources for Web-developers creating projects for their portfolios!
 
----
+#
 
 
 ### Background patters
@@ -22,6 +22,14 @@ Create SVG waves for your website or app.
 - [Blob generator](https://www.blobmaker.app/)  
 Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.  
 
+### Color tools
+
+- [Gradihunt](https://gradihunt.com/)  
+Great tool for searching and comparing gradients.
+
+- [ColorSandFonts](https://www.colorsandfonts.com/)  
+Color & typography tools for web developers and digital designers.
+
 
 ### Icons
 - [Zondicons](http://www.zondicons.com/)  
@@ -39,6 +47,16 @@ Jam icons is a set of SVG icons designed for web projects, illustrations, print 
 - [Orion Icon library](https://orioniconlibrary.com/)  
 6014 Free SVG Vector Icons
 
+- [Radix Icons](https://icons.modulz.app/)  
+A crisp set of 15×15 icons designed by the Modulz team.  
+
+- [Icon Park](https://github.com/bytedance/IconPark)  
+IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. 
+
+### Music and sounds
+
+- [CCHound](https://cchound.com/)  
+100% free, quality CC audio  
 
 
 ### APIS
