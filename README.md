@@ -14,6 +14,9 @@ A collection of repeatable SVG background patterns for you to use on your web pr
 - [CSS3 Pattern gallery by Lea Verou](http://projects.verou.me/css3patterns/).   
 Small collection of cool CSS3 background patterns. 
 
+- [Patternico](https://patternico.com/)  
+Create your own background pattern from font awesome or Line icons!
+
 
 ### Graphics
 - [Wave generator](https://getwaves.io/)  
@@ -29,6 +32,9 @@ Great tool for searching and comparing gradients.
 
 - [ColorSandFonts](https://www.colorsandfonts.com/)  
 Color & typography tools for web developers and digital designers.
+
+- [Coolors](https://coolors.co/)  
+Create color palettes super fast!
 
 
 ### Icons
@@ -53,6 +59,11 @@ A crisp set of 15×15 icons designed by the Modulz team.
 - [Icon Park](https://github.com/bytedance/IconPark)  
 IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. 
 
+### Photos
+
+- [Lorem Picsum](https://picsum.photos/)  
+Lorem ipsum for photos!
+
 ### Music and sounds
 
 - [CCHound](https://cchound.com/)  
@@ -61,3 +72,5 @@ IconPark gives access to more than 1,400 high-quality icons, and introduces an i
 
 ### APIS
 Some of the coolest free API:s you can use on your projects!
+- [OpenWeatherMap](https://openweathermap.org/api)  
+Classic weather API.
