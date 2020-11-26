@@ -67,6 +67,15 @@ Lorem ipsum for photos!
 - [Lost And Taken](https://lostandtaken.com/)  
 Free texture stock photos
 
+- [Unsplash](https://unsplash.com/)  
+Beautiful free images and pictures
+
+- [Pexels](https://www.pexels.com/)  
+Free stock photos and videos
+
+- [Pixabay](https://pixabay.com/)  
+Stunning free images & royalty free stock
+
 ### Music and sounds
 
 - [CCHound](https://cchound.com/)  
