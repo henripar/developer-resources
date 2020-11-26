@@ -64,6 +64,9 @@ IconPark gives access to more than 1,400 high-quality icons, and introduces an i
 - [Lorem Picsum](https://picsum.photos/)  
 Lorem ipsum for photos!
 
+- [Lost And Taken](https://lostandtaken.com/)  
+Free texture stock photos
+
 ### Music and sounds
 
 - [CCHound](https://cchound.com/)  
