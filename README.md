@@ -1,8 +1,6 @@
 # developer-resources  
 Best FREE resources for Web-developers creating projects for their portfolios!
 
-#
-
 
 ### Background patters
 - [Subtle patterns](https://www.toptal.com/designers/subtlepatterns/)  
@@ -35,6 +33,12 @@ Color & typography tools for web developers and digital designers.
 
 - [Coolors](https://coolors.co/)  
 Create color palettes super fast!
+
+- [Color HailPixel](https://color.hailpixel.com/)  
+Another tool for creating color palettes quickly.
+
+- [Color Hunt](https://colorhunt.co/)  
+Lot's of color palettes for finding inspiration.
 
 
 ### Icons
