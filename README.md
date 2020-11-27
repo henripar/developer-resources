@@ -69,6 +69,12 @@ IconPark gives access to more than 1,400 high-quality icons, and introduces an i
 - [Font Awesome](https://fontawesome.com/)  
 Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 
+- [Fontisto](https://fontisto.com/)  
+fontisto the iconic font and css toolkit · 616+ free icons
+
+- [Evil Icons](https://evil-icons.io/)  
+Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
+
 ### Photos
 
 - [Lorem Picsum](https://picsum.photos/)  
