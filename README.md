@@ -123,7 +123,7 @@ Fast and secure web hosting.
 Static web site publishing for front-end developers. For free.
 
 ### APIS
-Some of the coolest free API:s you can use on your projects!
+*Some of the coolest free API:s you can use on your projects!*
 - [OpenWeatherMap](https://openweathermap.org/api)  
 Classic weather API.
 
