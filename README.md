@@ -126,3 +126,16 @@ Static web site publishing for front-end developers. For free.
 Some of the coolest free API:s you can use on your projects!
 - [OpenWeatherMap](https://openweathermap.org/api)  
 Classic weather API.
+
+- [Pokemon API](https://pokeapi.co/)  
+All the Pokémon data you'll ever need in one place,
+easily accessible through a modern RESTful API.
+
+- [NASA APIs](https://api.nasa.gov/)  
+Bunch of different APIs for accessing NASA data including Mars rover photos, satelite photos of earth, exoplanet database and much more!
+
+- [Yelp Fusion API](https://www.yelp.com/developers/documentation/v3)  
+Get information about local businesses around the world with Yelp Fusion API.
+
+- [Youtube API](https://developers.google.com/youtube/)  
+Add YouTube functionality to your sites and apps.
