@@ -148,3 +148,6 @@ Add YouTube functionality to your sites and apps.
 
 - [New York Times APIs](https://developer.nytimes.com/apis)  
 Differetn APIs for New York Times content including news articles, movie reviews, bestseller books reviews & lists.
+
+- [OMDb API](http://www.omdbapi.com/)  
+The OMDb API is a RESTful web service to obtain movie information.
