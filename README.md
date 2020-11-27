@@ -139,3 +139,6 @@ Get information about local businesses around the world with Yelp Fusion API.
 
 - [Youtube API](https://developers.google.com/youtube/)  
 Add YouTube functionality to your sites and apps.
+
+- [New York Times APIs](https://developer.nytimes.com/apis)  
+Differetn APIs for New York Times content including news articles, movie reviews, bestseller books reviews & lists.
