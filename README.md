@@ -40,6 +40,9 @@ Another tool for creating color palettes quickly.
 - [Color Hunt](https://colorhunt.co/)  
 Lot's of color palettes for finding inspiration.
 
+- [Adobe Color](https://color.adobe.com/create/color-wheel)  
+Use Adobe color wheel to generate color palettes.
+
 
 ### Icons
 - [Zondicons](http://www.zondicons.com/)  
@@ -62,6 +65,9 @@ A crisp set of 15×15 icons designed by the Modulz team.
 
 - [Icon Park](https://github.com/bytedance/IconPark)  
 IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons. 
+
+- [Font Awesome](https://fontawesome.com/)  
+Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 
 ### Photos
 
