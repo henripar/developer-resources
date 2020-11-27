@@ -102,6 +102,20 @@ Another online code editor for web developers. Focuses on sharing your code.
 - [Code Sandbox](https://codesandbox.io/)  
 Free, instant, collaborative sandboxes for rapid web development.
 
+### Hosting 
+
+- [Heroku](https://www.heroku.com/)  
+Great Paas for deploying and hosting node.js (and other) apps for free.
+
+- [Github pages](https://pages.github.com/)  
+Host websites and web apps for free straight from your github repo!
+
+- [Firebase](https://firebase.google.com/products/hosting)  
+Fast and secure web hosting.
+
+- [Surge](https://surge.sh/)  
+Static web site publishing for front-end developers. For free.
+
 ### APIS
 Some of the coolest free API:s you can use on your projects!
 - [OpenWeatherMap](https://openweathermap.org/api)  
