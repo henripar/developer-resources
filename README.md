@@ -34,7 +34,7 @@ Color & typography tools for web developers and digital designers.
 - [Coolors](https://coolors.co/)  
 Create color palettes super fast!
 
-- [Color HailPixel](https://color.hailpixel.com/)  
+- [Colordot by hailpixel](https://color.hailpixel.com/)  
 Another tool for creating color palettes quickly.
 
 - [Color Hunt](https://colorhunt.co/)  
@@ -85,6 +85,19 @@ Stunning free images & royalty free stock
 - [CCHound](https://cchound.com/)  
 100% free, quality CC audio  
 
+### Code playgrounds
+
+- [StackBlitz](https://stackblitz.com/)  
+Online code editor for web apps
+
+- [JSFiddle](https://jsfiddle.net/)  
+Javascript, HTML, CSS code playground.
+
+- [CodePen](https://codepen.io/pen/)  
+Online code editor
+
+- [JSBin](https://jsbin.com/?html,output)  
+Another online code editor for web developers. Focuses on sharing your code.
 
 ### APIS
 Some of the coolest free API:s you can use on your projects!
