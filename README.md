@@ -43,6 +43,26 @@ Lot's of color palettes for finding inspiration.
 - [Adobe Color](https://color.adobe.com/create/color-wheel)  
 Use Adobe color wheel to generate color palettes.
 
+### UI Components & code snippets
+
+#### Loading spinners
+
+- [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)  
+CSS loading Spinners by Luke Haas.
+
+- [Spin Kit](https://tobiasahlin.com/spinkit/)  
+Kit of CSS loading spinners by Tobias Ahlin.
+
+- [Loaders.css](https://connoratherton.com/loaders)  
+Delightful and performance-focused pure css loading animations.
+
+- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/)  
+A set of SCSS mixins for single element loaders and spinners
+
+#### Other ui components
+
+- [Moving text animations](https://tobiasahlin.com/moving-letters/)  
+Moving text animations by Tobias Ahlin.
 
 ### Icons
 - [Zondicons](http://www.zondicons.com/)  
