@@ -173,7 +173,7 @@ Free illustrations and icons. No attrribution required.
 - [CCHound](https://cchound.com/)  
 100% free, quality CC audio  
 
-- [Umnimus](https://www.unminus.com/)  
+- [Unminus](https://www.unminus.com/)  
 Free premium music for your projects.
 
 - [Mixkit](https://mixkit.co/free-stock-music/)  
