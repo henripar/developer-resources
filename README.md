@@ -9,12 +9,17 @@ Over 500 background patterns under CC BY-SA 3.0 licence.
 - [Hero patterns](https://www.heropatterns.com/)  
 A collection of repeatable SVG background patterns for you to use on your web projects.  
 
-- [CSS3 Pattern gallery by Lea Verou](http://projects.verou.me/css3patterns/).   
+- [CSS3 Pattern gallery by Lea Verou](http://projects.verou.me/css3patterns/)   
 Small collection of cool CSS3 background patterns. 
 
 - [Patternico](https://patternico.com/)  
 Create your own background pattern from font awesome or Line icons!
 
+- [BGJar](https://bgjar.com/)  
+Free svg background generator for your websites, blogs and app.
+
+- [Trianglify](https://trianglify.io/)  
+Tool to generate low-poly backgrounds, textures, and vectors. 
 
 ### Graphics
 - [Wave generator](https://getwaves.io/)  
@@ -22,6 +27,12 @@ Create SVG waves for your website or app.
 
 - [Blob generator](https://www.blobmaker.app/)  
 Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes.  
+
+- [Another blob generator](https://blobs.app/)  
+Generate beautiful blob shapes for web and flutter apps under MIT licence.
+
+- [Custom shape dividers](https://www.shapedivider.app/)  
+Awesome tool for creating custom dividers for websites or apps!
 
 ### Color tools
 
@@ -98,6 +109,15 @@ Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.j
 - [Phosphor Icons](https://phosphoricons.com/)  
 Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 
+- [Iconhub](https://iconhub.io/)  
+Just practical stunning icons for everyone. 
+
+- [Basicons](https://basicons.xyz/)  
+Basic icons for product design & development
+
+- [Tabler Icons](https://github.com/tabler/tabler-icons)  
+A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
+
 ### Photos
 
 - [Lorem Picsum](https://picsum.photos/)  
@@ -115,10 +135,24 @@ Free stock photos and videos
 - [Pixabay](https://pixabay.com/)  
 Stunning free images & royalty free stock
 
+### Illustrations
+
+- [Undraw](https://undraw.co/)  
+Open-source illustrations for any idea you can imagine and create.
+
+- [Glaze](https://www.glazestock.com/)  
+royalty-free illustration library
+
+- [Delesign](https://delesign.com/free-designs/graphics/)  
+Free illustrations and icons. No attrribution required.
+
 ### Music and sounds
 
 - [CCHound](https://cchound.com/)  
 100% free, quality CC audio  
+
+- [Umnimus](https://www.unminus.com/)  
+Free premium music for your projects.
 
 ### Code playgrounds
 
@@ -174,3 +208,18 @@ Differetn APIs for New York Times content including news articles, movie reviews
 
 - [OMDb API](http://www.omdbapi.com/)  
 The OMDb API is a RESTful web service to obtain movie information.
+
+### Other useful tools
+
+- [Responsively.app](https://responsively.app/)  
+Develop responsive web apps 5x faster!  
+"A must-have DevTool for all Front-End developers that will make your job easier."
+
+- [Favicon.io](https://favicon.io/)  
+The only favicon generator you need for your next project. Create favicons from text, images or even emojis.
+
+- [Carbon](https://carbon.now.sh/)  
+Create and share beautiful images of your code.
+
+- [Blaze](https://blaze.now.sh/)  
+Cool (and fast) way to share files with any devices.
