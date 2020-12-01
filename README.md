@@ -81,6 +81,14 @@ A set of SCSS mixins for single element loaders and spinners
 - [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)  
 Beautiful CSS box-shadow examples
 
+#### CSS Device mockups
+
+- [devices.css](https://picturepan2.github.io/devices.css/#content)  
+Pure CSS mockups for mobile devices, tablets and laptops.
+
+- [Minimal devices by Jared Hardy](http://jaredhardy.com/minimal-devices/)  
+Minimal Apple device mockups
+
 #### Other ui components
 
 - [Moving text animations](https://tobiasahlin.com/moving-letters/)  
