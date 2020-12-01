@@ -73,6 +73,11 @@ Delightful and performance-focused pure css loading animations.
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/)  
 A set of SCSS mixins for single element loaders and spinners
 
+#### CSS Code snippets
+
+- [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)  
+Beautiful CSS box-shadow examples
+
 #### Other ui components
 
 - [Moving text animations](https://tobiasahlin.com/moving-letters/)  
