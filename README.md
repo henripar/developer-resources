@@ -123,7 +123,7 @@ Just practical stunning icons for everyone.
 - [Basicons](https://basicons.xyz/)  
 Basic icons for product design & development
 
-- [Tabler Icons](https://github.com/tabler/tabler-icons)  
+- [Tabler Icons](https://tablericons.com/)  
 A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
 
 ### Photos & video
