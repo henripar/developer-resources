@@ -21,6 +21,9 @@ Free svg background generator for your websites, blogs and app.
 - [Trianglify](https://trianglify.io/)  
 Tool to generate low-poly backgrounds, textures, and vectors. 
 
+- [Gradienta](https://gradienta.io/)  
+Awesome gradients to use as a background!
+
 ### Graphics
 - [Wave generator](https://getwaves.io/)  
 Create SVG waves for your website or app.
@@ -223,7 +226,7 @@ Differetn APIs for New York Times content including news articles, movie reviews
 - [OMDb API](http://www.omdbapi.com/)  
 The OMDb API is a RESTful web service to obtain movie information.
 
-- [JoeSchmoe avatar API](https://joeschmoe.io/) 
+- [JoeSchmoe avatar API](https://joeschmoe.io/)  
 An illustrated avatar collection for developers and designers.
 
 
