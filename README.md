@@ -93,7 +93,10 @@ Get vector icons and social logos on your website with Font Awesome, the web's m
 fontisto the iconic font and css toolkit · 616+ free icons
 
 - [Evil Icons](https://evil-icons.io/)  
-Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
+Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.  
+
+- [Phosphor Icons](https://phosphoricons.com/)  
+Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 
 ### Photos
 
