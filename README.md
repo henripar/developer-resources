@@ -54,6 +54,9 @@ Lot's of color palettes for finding inspiration.
 - [Adobe Color](https://color.adobe.com/create/color-wheel)  
 Use Adobe color wheel to generate color palettes.
 
+- [palette.app](https://palettte.app/)  
+Different kind of take on creating color palettes.
+
 ### UI Components & code snippets
 
 #### Loading spinners
@@ -118,7 +121,7 @@ Basic icons for product design & development
 - [Tabler Icons](https://github.com/tabler/tabler-icons)  
 A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
 
-### Photos
+### Photos & video
 
 - [Lorem Picsum](https://picsum.photos/)  
 Lorem ipsum for photos!
@@ -134,6 +137,9 @@ Free stock photos and videos
 
 - [Pixabay](https://pixabay.com/)  
 Stunning free images & royalty free stock
+
+- [Mixkit](https://mixkit.co/)  
+High quality free stock video clips, music and sound effects.
 
 ### Illustrations
 
@@ -153,6 +159,9 @@ Free illustrations and icons. No attrribution required.
 
 - [Umnimus](https://www.unminus.com/)  
 Free premium music for your projects.
+
+- [Mixkit](https://mixkit.co/free-stock-music/)  
+Free stock music and sound effects.
 
 ### Code playgrounds
 
