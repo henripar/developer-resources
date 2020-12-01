@@ -223,6 +223,10 @@ Differetn APIs for New York Times content including news articles, movie reviews
 - [OMDb API](http://www.omdbapi.com/)  
 The OMDb API is a RESTful web service to obtain movie information.
 
+- [JoeSchmoe avatar API](https://joeschmoe.io/) 
+An illustrated avatar collection for developers and designers.
+
+
 ### Other useful tools
 
 - [Responsively.app](https://responsively.app/)  
