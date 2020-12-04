@@ -24,6 +24,10 @@ Tool to generate low-poly backgrounds, textures, and vectors.
 - [Gradienta](https://gradienta.io/)  
 Awesome gradients to use as a background!
 
+- [The Pattern Library](http://thepatternlibrary.com/)  
+This on going project compiles patterns shared by the most talented designers out there for you to use freely in your designs.  
+
+
 ### Graphics
 - [Wave generator](https://getwaves.io/)  
 Create SVG waves for your website or app.
@@ -58,7 +62,13 @@ Lot's of color palettes for finding inspiration.
 Use Adobe color wheel to generate color palettes.
 
 - [palette.app](https://palettte.app/)  
-Different kind of take on creating color palettes.
+Different kind of take on creating color palettes.  
+
+- [Colormind](http://colormind.io/bootstrap/)  
+Generate color palettes and see them live on demo website!
+
+- [UI Gradients](https://uigradients.com/#VirginAmerica)  
+Browse through gradients and copy the CSS code for them.
 
 ### UI Components & code snippets
 
@@ -81,18 +91,24 @@ A set of SCSS mixins for single element loaders and spinners
 - [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)  
 Beautiful CSS box-shadow examples
 
-#### CSS Device mockups
+#### Device mockups
 
 - [devices.css](https://picturepan2.github.io/devices.css/#content)  
 Pure CSS mockups for mobile devices, tablets and laptops.
 
 - [Minimal devices by Jared Hardy](http://jaredhardy.com/minimal-devices/)  
-Minimal Apple device mockups
+Minimal Apple device CSS mockups
+
+- [Device shots](https://deviceshots.com/)  
+The single best tool for creating device mockup PNGs with your own screen content! 
 
 #### Other ui components
 
 - [Moving text animations](https://tobiasahlin.com/moving-letters/)  
 Moving text animations by Tobias Ahlin.
+
+- [UI Design daily](https://uidesigndaily.com/)  
+Free UI Components to use in Figma, Adobe XD, Sketch or Photoshop.
 
 ### Icons
 - [Zondicons](http://www.zondicons.com/)  
@@ -136,6 +152,19 @@ Basic icons for product design & development
 
 - [Tabler Icons](https://tablericons.com/)  
 A set of over 950 free MIT-licensed high-quality SVG icons for you to use in your web projects. 
+
+- [Heroicons](https://heroicons.dev/)  
+Another set of MIT-licenced SVG icons.
+
+- [Eva Icons](https://akveo.github.io/eva-icons/#/)  
+Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+
+- [CSS GG](https://css.gg/)  
+700+ Open-source CSS, SVG and Figma UI Icons. Available in SVG Sprite, styled-components, NPM & API
+
+- [Devicon](https://devicon.dev/)  
+Devicon is a set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
+
 
 ### Photos & video
 
@@ -252,3 +281,9 @@ Create and share beautiful images of your code.
 
 - [Blaze](https://blaze.now.sh/)  
 Cool (and fast) way to share files with any devices.
+
+- [Screely](https://www.screely.com/)  
+Instantly Turn a Screenshot or Image into a Browser Mockup
+
+- [Sweet Alert](https://sweetalert.js.org/)  
+A beautiful replacement for javascript alert() messages.
