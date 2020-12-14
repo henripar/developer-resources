@@ -91,6 +91,12 @@ A set of SCSS mixins for single element loaders and spinners
 - [CSS Box Shadow Examples](https://getcssscan.com/css-box-shadow-examples)  
 Beautiful CSS box-shadow examples
 
+- [Box shadow generator](https://box-shadow.dev/)  
+Generate CSS box-shadows and copy the code for it.
+
+- [Animista CSS animation snippets](https://animista.net/)  
+Code snippets for all kinds of CSS animations. 
+
 #### Device mockups
 
 - [devices.css](https://picturepan2.github.io/devices.css/#content)  
@@ -165,6 +171,8 @@ Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for c
 - [Devicon](https://devicon.dev/)  
 Devicon is a set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
 
+- [Simple icons](https://simpleicons.org/)  
+1477 Free SVG icons for popular brands.
 
 ### Photos & video
 
@@ -196,6 +204,9 @@ royalty-free illustration library
 
 - [Delesign](https://delesign.com/free-designs/graphics/)  
 Free illustrations and icons. No attrribution required.
+
+- [Scale](https://2.flexiple.com/scale/all-illustrations)  
+One new high-quality, open-source illustration each day.
 
 ### Music and sounds
 
@@ -265,6 +276,10 @@ The OMDb API is a RESTful web service to obtain movie information.
 
 - [JoeSchmoe avatar API](https://joeschmoe.io/)  
 An illustrated avatar collection for developers and designers.
+
+- [Initials Avatar Generator API](https://avatar.oxro.io/)  
+Get placehoder SVGs for profile pics containing users name initials.  
+[Example](https://avatar.oxro.io/avatar.svg?name=John+Doe&background=f39c12) return for 'John Doe' with orange bakcground.
 
 
 ### Other useful tools
