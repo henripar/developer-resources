@@ -281,8 +281,14 @@ An illustrated avatar collection for developers and designers.
 Get placehoder SVGs for profile pics containing users name initials.  
 [Example](https://avatar.oxro.io/avatar.svg?name=John+Doe&background=f39c12) return for 'John Doe' with orange bakcground.
 
+- [Coingecko API](https://www.coingecko.com/en/api)  
+The world's most comprehensive cryptocurrency API.
+
 
 ### Other useful tools
+
+- [Omatsuri](https://omatsuri.app/)  
+Open source browser tools for everyday use. 
 
 - [Responsively.app](https://responsively.app/)  
 Develop responsive web apps 5x faster!  
