@@ -70,6 +70,9 @@ Generate color palettes and see them live on demo website!
 - [UI Gradients](https://uigradients.com/#VirginAmerica)  
 Browse through gradients and copy the CSS code for them.
 
+- [Picular](https://picular.co/)  
+Search for colors of anything! For example you could search 'coffee' and it will give you good color to use for coffee.
+
 ### UI Components & code snippets
 
 #### Loading spinners
