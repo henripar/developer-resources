@@ -304,6 +304,9 @@ Get placehoder SVGs for profile pics containing users name initials.
 - [Coingecko API](https://www.coingecko.com/en/api)  
 The world's most comprehensive cryptocurrency API.
 
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)  
+Mock JSON data API for testing.
+
 
 ### Other useful tools
 
