@@ -323,6 +323,9 @@ The only favicon generator you need for your next project. Create favicons from 
 - [Carbon](https://carbon.now.sh/)  
 Create and share beautiful images of your code.
 
+- [ray.so](https://ray.so/)  
+Like Carbon but different.
+
 - [Blaze](https://blaze.now.sh/)  
 Cool (and fast) way to share files with any devices.
 
