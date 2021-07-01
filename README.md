@@ -73,6 +73,10 @@ Browse through gradients and copy the CSS code for them.
 - [Picular](https://picular.co/)  
 Search for colors of anything! For example you could search 'coffee' and it will give you good color to use for coffee.
 
+- [MyColor.space](https://mycolor.space/)  
+Generate color palettes from single color and create CSS gadients.
+
+
 ### UI Components & code snippets
 
 #### Loading spinners
@@ -128,6 +132,9 @@ A set of free premium SVG icons for you to use on your digital products.
 
 - [Feather Icons](https://feathericons.com/)  
 Simply beautiful open source icons
+
+- [Lucide](https://lucide.dev/)  
+An open-source icon library, a fork of Feather Icons.
 
 - [JAM Icons](https://jam-icons.com/)  
 Jam icons is a set of SVG icons designed for web projects, illustrations, print projects, etc. Licensed under MIT.
@@ -253,6 +260,16 @@ Fast and secure web hosting.
 - [Surge](https://surge.sh/)  
 Static web site publishing for front-end developers. For free.
 
+- [Vercel](https://vercel.com/)  
+HTTPS enabled custom domains, continous deployment with git and unlimited free websites and APIs. 
+
+- [Netlify](https://www.netlify.com/)  
+An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps.
+
+- [Render](https://render.com/)  
+Render is a unified cloud to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
+
+
 ### APIS
 *Some of the coolest free API:s you can use on your projects!*
 - [OpenWeatherMap](https://openweathermap.org/api)  
@@ -311,3 +328,6 @@ Instantly Turn a Screenshot or Image into a Browser Mockup
 
 - [Sweet Alert](https://sweetalert.js.org/)  
 A beautiful replacement for javascript alert() messages.
+
+- [diagrams.net](https://www.diagrams.net/)  
+The world’s most widely used browser-based end-user diagramming software.
