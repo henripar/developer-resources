@@ -67,6 +67,9 @@ Different kind of take on creating color palettes.
 - [Colormind](http://colormind.io/bootstrap/)  
 Generate color palettes and see them live on demo website!
 
+- [Gradientos](https://www.gradientos.app)  
+Find and test gradients easily.
+
 - [UI Gradients](https://uigradients.com/#VirginAmerica)  
 Browse through gradients and copy the CSS code for them.
 
